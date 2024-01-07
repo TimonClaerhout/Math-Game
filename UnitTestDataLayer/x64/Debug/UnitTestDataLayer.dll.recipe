@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\x64\Debug\DataLayer.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\x64\Debug\UnitTestDataLayer.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

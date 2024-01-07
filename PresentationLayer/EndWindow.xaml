@@ -1,0 +1,36 @@
+﻿<Window x:Class="PresentationLayer.EndWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer"
+        mc:Ignorable="d"
+        Title="EndWindow" Height="600" Width="425" MinHeight="600" MinWidth="425" Background="LightGray" WindowState="Maximized">
+    <Viewbox>
+        <StackPanel>
+            <TextBlock Margin="5 5 0 0"  Text="Thanks for playing the math game!" HorizontalAlignment="Center" Foreground="DarkBlue"/>
+        <TextBlock Margin="5 0 0 0"  Text="I hope to see you soon again."     HorizontalAlignment="Center" Foreground="DarkBlue"/>
+        <TextBlock Margin="8 20 0 0" Text="Results:" x:Name="Results"/>
+        <TextBlock Margin="8 5 0 0"                  x:Name="LeaderboardUser"/>
+        <TextBlock Margin="8 5 0 15"                 x:Name="LeaderboardTop3"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Show_leaderboard" Click="ShowLeaderboardClick" Background="LightBlue" Grid.Column="1" Content="show leaderboard" Width="150" />
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="PlayAgain" Click="PlayAgainClick" Grid.Column="0" Content="play again" Margin="25,20,25,0" Width="150" Background="LightGreen"/>
+                <Button x:Name="Exit"      Click="ExitClick"      Grid.Column="1" Content="exit"       Margin="50,20,50,0" Width="100" Background="Red" MouseEnter="ExitMouseEnter" MouseLeave="ExitMouseLeave"/>
+        </Grid>
+        <TextBlock Foreground="SlateGray" Margin="5 5 0 0" Text="Contact developer: timon.claerhout@student.kuleuven.be"/>
+        <TextBlock Foreground="SlateGray" Margin="5 0 0 0" Text="Made by Timon Claerhout"/>
+    </StackPanel>
+    </Viewbox>
+</Window>

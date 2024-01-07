@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zc5/N/M6k6jOKQ3fP5+6FIJYzxcYjiQ1b54aKAJHApoliXy9n1aPdyahOoBPF0KzFkrpI1zTu9OjkyyH15QUw==",
+  "success": true,
+  "projectFilePath": "C:\\Kuleuven\\Programmeertechnieken\\Opdracht\\MathGame\\MathGameApp\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

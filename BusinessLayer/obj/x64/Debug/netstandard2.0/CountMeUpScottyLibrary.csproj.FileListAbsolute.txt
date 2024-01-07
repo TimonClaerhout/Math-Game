@@ -1,0 +1,10 @@
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\bin\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.deps.json
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\bin\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.dll
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\bin\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.pdb
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.csproj.AssemblyReference.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.AssemblyInfoInputs.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.AssemblyInfo.cs
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.csproj.CoreCompileInputs.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.dll
+C:\Kuleuven\Programmeertechnieken\Opdracht\count-me-up-scotty\CountMeUpScottyApp\CountMeUpScottyLibrary\obj\x64\Debug\netstandard2.0\CountMeUpScottyLibrary.pdb

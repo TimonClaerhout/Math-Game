@@ -1,0 +1,10 @@
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\bin\x64\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\bin\x64\Debug\netstandard2.0\BusinessLayer.dll
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\bin\x64\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.dll
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\BusinessLayer\obj\x64\Debug\netstandard2.0\BusinessLayer.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PresentationLayer.LoginWindow">
+    <Position X="1.25" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAABAAAAAAAABAAAQAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>LoginWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PresentationLayer.MainWindow">
+    <Position X="5.5" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>EAIBEAAAAAAAAgEAABAEAAAAAAgQAgAIAAABAQAMBAQ=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PresentationLayer.EndWindow">
+    <Position X="10.5" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIAEAAAAgEAAAgBAAQAIQAAAAAAQAEBAA=</HashCode>
+      <FileName>EndWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PresentationLayer.Leaderboard">
+    <Position X="15.5" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAQAAA=</HashCode>
+      <FileName>Leaderboard.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+﻿  Database.cpp
+  shell.c
+C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\DataLayer\shell.c(18253,20): warning C4018: '>=': signed/unsigned mismatch
+  sqlite3.c
+  Generating Code...
+  LINK : C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\Debug\DataLayer.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\Debug\DataLayer.lib and object C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\Debug\DataLayer.exp
+  DataLayer.vcxproj -> C:\Kuleuven\Programmeertechnieken\Opdracht\MathGame\MathGameApp\Debug\DataLayer.dll
